@@ -1,2 +1,1 @@
-updated readme file this the second project of gi hub
-updated version
+It’s the only time you are allowed to update and commit from GitHub interface.
